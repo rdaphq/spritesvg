@@ -43,7 +43,7 @@ Clone this repo or just download the ```sprite.svg``` template and start pasting
     </symbol>
 
     <!-- Calendar Icon -->
-    <symbol id="search" viewBox="0 0 26 26">
+    <symbol id="calendar" viewBox="0 0 26 26">
         <path d="M14.6667 1.38462H12V0H10.6667V1.38462H5.33333V0H4V1.38462H1.33333C0.6 1.38462 0 2.00769 0 2.76923V16.6154C0 17.3769 0.6 18 1.33333 18H14.6667C15.4 18 16 17.3769 16 16.6154V2.76923C16 2.00769 15.4 1.38462 14.6667 1.38462ZM14.6667 16.6154H1.33333V6.92308H14.6667V16.6154ZM14.6667 5.53846H1.33333V2.76923H4V4.15385H5.33333V2.76923H10.6667V4.15385H12V2.76923H14.6667V5.53846Z" fill="white"/>
     </symbol>
 </svg>
